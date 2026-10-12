@@ -91,12 +91,13 @@ A project showcasing best practices in Android development using the Room persis
 ---
 
 #### 🎯 **Kotlin Learning Series** — From Basics to Advanced
-A comprehensive collection of Kotlin projects covering the full journey—from Week 1 fundamentals through Week 7 advanced patterns:
+A comprehensive collection of Kotlin projects spanning **3+ months of dedicated learning** (June-August), covering the full journey from Week 1 fundamentals through Week 7 advanced patterns:
 
 - **Week 1-3**: Personal Info Calculator, OOP Fundamentals, Bank Account System
 - **Week 4-5**: Shopping Cart (Functional Programming), Async News Fetcher
 - **Week 6-7**: Task Manager & Habit Tracker Applications
 - **Advanced Topics**: Null Safety, Collections, OOP, Scope Functions, Async Programming
+- ⭐ **Dedication**: Consistent daily coding throughout summer months
 - 🔗 [View All Kotlin Projects](https://github.com/Mkonzo?tab=repositories&q=Kotlin_Week)
 
 ---
