@@ -102,6 +102,17 @@ A comprehensive collection of Kotlin projects spanning **3+ months of dedicated 
 
 ---
 
+### 🤝 Open Source & Community Contributions
+
+#### **Dada Devs Cohort 5** — Developer Learning Community
+Active member of the Dada Developers cohort, a collaborative learning initiative where developers contribute assignments, share knowledge, and grow together.
+
+- **Contributions**: Pull request to add myself as a contributor, consistent assignment submissions
+- **Participation**: Part of a structured learning community focused on software development fundamentals
+- 🔗 [View Repository](https://github.com/Mkonzo/dada-devs-cohort-5)
+
+---
+
 ### 📊 GitHub Statistics
 
 <div align="center">
@@ -150,7 +161,8 @@ A comprehensive collection of Kotlin projects spanning **3+ months of dedicated 
 ✅ **Full-Stack Skills** — Building complete solutions from database to UI  
 ✅ **Clean Code** — Writing maintainable, testable, well-documented code  
 ✅ **Problem Solving** — Tackling complex challenges with elegant solutions  
-✅ **Continuous Growth** — Learning new technologies and frameworks consistently
+✅ **Continuous Growth** — Learning new technologies and frameworks consistently  
+✅ **Community Engagement** — Contributing to open source and collaborative projects
 
 ---
 
