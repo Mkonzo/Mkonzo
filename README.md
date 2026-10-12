@@ -113,6 +113,17 @@ Active member of the Dada Developers cohort, a collaborative learning initiative
 
 ---
 
+### 🧠 Learning & Interests
+
+I enjoy exploring emerging technologies and understanding how modern systems work behind the scenes.
+
+- **Bitcoin & blockchain fundamentals** — learning decentralization, digital currencies, and crypto ecosystem concepts
+- **Software architecture** — building scalable, maintainable, and efficient systems
+- **AI & automation** — understanding how intelligent systems can support real-world workflows
+- **Problem solving** — turning technical challenges into practical, user-focused solutions
+
+---
+
 ### 📊 GitHub Statistics
 
 <div align="center">
