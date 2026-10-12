@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mkonzo+Shirlean+%F0%9F%91%8B;Software+Developer;Full-Stack+Engineer;Building+Impactful+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mkonzo+Shirlean+%F0%9F%91%8B;Software+[...]
 </p>
 
 <p align="center">
@@ -24,11 +24,15 @@
 
 ### 👋 About Me
 
-I'm a passionate software developer with a strong foundation in **full-stack development**, **mobile applications**, and **backend systems**. I love building solutions that make a difference—from interactive educational apps to robust backend services. I'm continuously learning, experimenting with new technologies, and growing as a developer.
+I am the founder of SHIRVEX Technologies, a tech company focused on building creative, secure, and impactful digital solutions. Our tagline is <strong>design.develop and defend</strong> — a reflection of our work in graphic design, UI/UX, software development, and cybersecurity.
 
-- 💻 **Specialties**: Full-stack development, Kotlin/Android, Flutter, JavaScript/Node.js, Python
-- 🔭 **Currently Working On**: Building intelligent mobile applications and backend systems
-- 🌱 **Always Learning**: Advanced architecture patterns, cloud technologies, system design
+I’m a passionate software developer with a strong foundation in **full-stack development**, **mobile applications**, and **backend systems**. I love building solutions that make a difference—focusing on clean design, practical functionality, and robust security.
+
+- 💼 **Founder**: SHIRVEX Technologies
+- 🎨 **Core Services**: Graphic Design, UI/UX Design
+- 💻 **Development**: Software Development and digital product engineering
+- 🔐 **Security**: Cybersecurity and digital protection
+- 🚀 **Mission**: Turn ideas into secure, elegant, and user-centered experiences
 - 💡 **Passionate About**: Clean code, user experience, and solving complex problems
 - 🎯 **Goal**: Create software that delivers real value and positively impacts users
 
