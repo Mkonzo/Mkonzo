@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mkonzo+Shirlean+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Building+creative+digital+solutions+%F0%9F%9A%80;Problem+solver+%F0%9F%A7%91;Always+learning+%F0%9F%93%9A" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mkonzo+Shirlean+%F0%9F%91%8B;Software+Developer;I+build+creative+digital+solutions;Problem+solver;Always+learning" alt="Typing banner" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 I am the founder of SHIRVEX Technologies, a tech company focused on building creative, secure, and impactful digital solutions. Our tagline is <strong>design.develop and defend</strong> — a reflection of our work in graphic design, UI/UX, software development, and cybersecurity.
 
-I’m a passionate software developer with a strong foundation in <strong>full-stack development</strong>, <strong>mobile applications</strong>, and <strong>backend systems</strong>. I love building solutions that make a difference—focusing on clean design, practical functionality, and robust security.
+I’m a passionate software developer with a strong foundation in <strong>full-stack development</strong>, <strong>mobile applications</strong>, and <strong>backend systems</strong>. I love building solutions that make a difference — focusing on clean design, practical functionality, and robust security.
 
 - 💼 **Founder**: SHIRVEX Technologies
 - 🎨 **Core Services**: Graphic Design, UI/UX Design
