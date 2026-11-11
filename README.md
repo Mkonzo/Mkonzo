@@ -1,205 +1,67 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mkonzo+Shirlean+%F0%9F%91%8B;Software+Developer;I+build+creative+digital+solutions;Problem+solver;Always+learning" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mkonzo+Shirlean+%F0%9F%91%8B;Software+Developer;I+build+creative+digital+solutions;Always+learning" alt="Hi, I'm Mkonzo Shirlean — software developer, always learning" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&animation=twinkling&fontColor=ffffff" alt="Welcome to my GitHub" />
 </p>
 
-<h3 align="center">🚀 Crafting elegant code and solving real-world problems</h3>
+<h3 align="center">Building useful software, one project at a time</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mkonzo-shirlean-aa132b350/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:shirlean262@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Mkonzo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <a href="https://linkedin.com/in/mkonzo-shirlean-aa132b350/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="mailto:shirlean262@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://github.com/Mkonzo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 </p>
 
 ---
 
 ### 👋 About Me
 
-I am the founder of SHIRVEX Technologies, a tech company focused on building creative, secure, and impactful digital solutions. Our tagline is <strong>design.develop and defend</strong> — a reflection of our work in graphic design, UI/UX, software development, and cybersecurity.
+I’m Mkonzo Shirlean, a software developer and founder of SHIRVEX Technologies. I enjoy building digital products and learning across mobile, backend, and web development. SHIRVEX’s tagline is **“design, develop, and defend”**—a reflection of our interests in design, software, and cybersecurity.
 
-I’m a passionate software developer with a strong foundation in <strong>full-stack development</strong>, <strong>mobile applications</strong>, and <strong>backend systems</strong>. I love building solutions that make a difference — focusing on clean design, practical functionality, and robust security.
+- **Currently learning and building:** Kotlin, Android, Flutter, and full-stack applications
+- **Interested in:** thoughtful UI/UX, software architecture, security, and practical problem-solving
+- **Goal:** create useful, user-centered digital experiences
 
-- 💼 **Founder**: SHIRVEX Technologies
-- 🎨 **Core Services**: Graphic Design, UI/UX Design
-- 💻 **Development**: Software Development and digital product engineering
-- 🔐 **Security**: Cybersecurity and digital protection
-- 🚀 **Mission**: Turn ideas into secure, elegant, and user-centered experiences
-- 💡 **Passionate About**: Clean code, user experience, and solving complex problems
-- 🎯 **Goal**: Create software that delivers real value and positively impacts users
+### 🛠️ Technologies
 
----
+These are technologies I use or am learning; the projects below show some of that work.
 
-### 🛠️ Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="center">
+### ⭐ Selected Projects
 
-#### **Languages**
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+- **[Code Quiz App](https://github.com/Mkonzo/code_quiz_app)** — A Flutter and Dart programming-quiz project. Visit the repository for its current implementation and status.
+- **[Kotlin Room Database](https://github.com/Mkonzo/Kotlin_Room_Database)** — A Kotlin note-database simulation exploring MVVM-style separation, a custom DAO, and repository/view-model layers.
+- **[Kotlin learning projects](https://github.com/Mkonzo?tab=repositories&q=Kotlin_Week)** — A collection of weekly Kotlin exercises and projects, from fundamentals to a task manager and habit tracker.
 
-#### **Frontend & Mobile**
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+### 🤝 Community
 
-#### **Backend & Databases**
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Room%20Database-0F9D58?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+I’m part of the Dada Devs Cohort 5 learning community. My contributor-list pull request is still open, so it has not yet been merged into the cohort repository.
 
-#### **Tools & Platforms**
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+- [My pull request to Dada Developers](https://github.com/DadaDevelopers/dada-devs-cohort-5/pull/3)
+- [My cohort fork](https://github.com/Mkonzo/dada-devs-cohort-5)
 
-</div>
+### 📊 GitHub Stats
 
----
+These cards are provided by third-party services and may be cached or temporarily unavailable; GitHub’s profile is the source of truth for contributions.
 
-### ⭐ Featured Projects
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mkonzo&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=Mkonzo&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkonzo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-#### 📚 **Code Quiz App** — Interactive Programming Learning Platform
-A comprehensive mobile quiz application designed to help developers master programming concepts through practical questions, real-time feedback, and progress tracking.
+### 📫 Connect
 
-- **Tech**: Flutter, Dart, Riverpod (State Management), Local Storage
-- **Languages**: Python, JavaScript, Java, C++, Dart
-- **Features**: 100+ curated questions, timed challenges, difficulty levels, statistics dashboard
-- 🔗 [View Repository](https://github.com/Mkonzo/code_quiz_app)
+- **Email:** [shirlean262@gmail.com](mailto:shirlean262@gmail.com)
+- **LinkedIn:** [Mkonzo Shirlean](https://linkedin.com/in/mkonzo-shirlean-aa132b350/)
+- **GitHub:** [@Mkonzo](https://github.com/Mkonzo)
 
----
-
-#### 📝 **Kotlin Room Database** — MVVM Architecture Demonstration
-A project showcasing best practices in Android development using the Room persistence library with clean MVVM architecture, LiveData state management, and the Repository pattern.
-
-- **Tech**: Kotlin, Android Architecture Components, Room, LiveData, ViewModel
-- **Concepts**: MVVM, Dependency Injection, Repository Pattern, Data Access Objects
-- 🔗 [View Repository](https://github.com/Mkonzo/Kotlin_Room_Database)
-
----
-
-#### 🎯 **Kotlin Learning Series** — From Basics to Advanced
-A comprehensive collection of Kotlin projects spanning **3+ months of dedicated learning** (June-August), covering the full journey from Week 1 fundamentals through Week 7 advanced patterns:
-
-- **Week 1-3**: Personal Info Calculator, OOP Fundamentals, Bank Account System
-- **Week 4-5**: Shopping Cart (Functional Programming), Async News Fetcher
-- **Week 6-7**: Task Manager & Habit Tracker Applications
-- **Advanced Topics**: Null Safety, Collections, OOP, Scope Functions, Async Programming
-- ⭐ **Dedication**: Consistent daily coding throughout summer months
-- 🔗 [View All Kotlin Projects](https://github.com/Mkonzo?tab=repositories&q=Kotlin_Week)
-
----
-
-### 🤝 Open Source & Community Contributions
-
-#### **Dada Devs Cohort 5** — Developer Learning Community
-Active member of the Dada Developers cohort, a collaborative learning initiative where developers contribute assignments, share knowledge, and grow together.
-
-- **Contributions**: Pull request to add myself as a contributor, consistent assignment submissions
-- **Participation**: Part of a structured learning community focused on software development fundamentals
-- 🔗 [View Repository](https://github.com/Mkonzo/dada-devs-cohort-5)
-
----
-
-### 🧠 Learning & Interests
-
-I enjoy exploring emerging technologies and understanding how modern systems work behind the scenes.
-
-- **Bitcoin & blockchain fundamentals** — learning decentralization, digital currencies, and crypto ecosystem concepts
-- **Software architecture** — building scalable, maintainable, and efficient systems
-- **AI & automation** — understanding how intelligent systems can support real-world workflows
-- **Problem solving** — turning technical challenges into practical, user-focused solutions
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mkonzo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </p>
-
-  <p>
-    <img src="https://streak-stats.demolab.com/?user=Mkonzo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkonzo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </p>
-</div>
-
----
-
-### 🎓 Technical Expertise
-
-**Kotlin & Android Development**
-- MVVM Architecture & Android Lifecycle
-- Room Database & Data Persistence
-- LiveData, ViewModel, Coroutines
-- Compose & Traditional UI Development
-- Null Safety & Scope Functions
-- Collections & Functional Programming
-
-**Full-Stack Development**
-- Frontend: React, Flutter, HTML/CSS
-- Backend: Node.js, Express.js
-- Databases: PostgreSQL, SQLite, Room
-- State Management: Riverpod, Context API
-
-**Software Design**
-- Clean Architecture & SOLID Principles
-- Design Patterns: Repository, DAO, Singleton
-- API Development & RESTful Services
-- Data Structures & Algorithms
-
----
-
-### 💡 What I'm Focused On
-
-✅ **Mastering Kotlin** — Advanced patterns, best practices, and Android ecosystem  
-✅ **Full-Stack Skills** — Building complete solutions from database to UI  
-✅ **Clean Code** — Writing maintainable, testable, well-documented code  
-✅ **Problem Solving** — Tackling complex challenges with elegant solutions  
-✅ **Continuous Growth** — Learning new technologies and frameworks consistently  
-✅ **Community Engagement** — Contributing to open source and collaborative projects  
-
----
-
-### 📫 Let's Connect
-
-I'm always open to:
-- 💼 **Collaboration** on interesting projects
-- 🤝 **Mentoring** and knowledge sharing
-- 💡 **Discussing** software architecture and design patterns
-- 🌐 **Contributing** to open-source communities
-
-**Feel free to reach out!**
-- 💌 **Email**: [shirlean262@gmail.com](mailto:shirlean262@gmail.com)
-- 💼 **LinkedIn**: [Mkonzo Shirlean](https://linkedin.com/in/mkonzo-shirlean-aa132b350/)
-- 🐙 **GitHub**: [@Mkonzo](https://github.com/Mkonzo)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-<p align="center">
-  <em>💻 Always building. Always learning. Always improving.</em>
-</p>
+<p align="center"><em>Always building. Always learning. Always improving.</em></p>
