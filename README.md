@@ -39,7 +39,7 @@ I work across modern application development, product thinking, and user-centere
 
 ## 🤝 Community and learning
 
-I’m actively learning and collaborating in the **Dada Devs Cohort 5** community. My contributor pull request is currently open and awaiting review.
+I’m learning and collaborating in the **Dada Devs Cohort 5** community. My contributor pull request is currently open and awaiting review. I’m also considering starting a **data science course** and am interested in exploring how data can help answer practical questions.
 
 - [View my contribution PR](https://github.com/DadaDevelopers/dada-devs-cohort-5/pull/3)
 - [Visit my cohort fork](https://github.com/Mkonzo/dada-devs-cohort-5)
@@ -58,7 +58,7 @@ I’m actively learning and collaborating in the **Dada Devs Cohort 5** communit
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkonzo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages used by Mkonzo" />
 </p>
 
-<sub>These cards are rendered by third-party services and can be delayed or temporarily unavailable. GitHub’s profile is the source of truth for contributions.</sub>
+<sub>I recently updated this profile README. GitHub’s contribution graph and streak cards may take time to reflect a new contribution. The cards are rendered by third-party services and can be delayed or temporarily unavailable; GitHub’s profile is the source of truth for contributions.</sub>
 
 ## 📫 Connect
 
