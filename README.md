@@ -58,8 +58,6 @@ I’m learning and collaborating in the **Dada Devs Cohort 5** community. My con
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkonzo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages used by Mkonzo" />
 </p>
 
-<sub>I recently updated this profile README. GitHub’s contribution graph and streak cards may take time to reflect a new contribution. The cards are rendered by third-party services and can be delayed or temporarily unavailable; GitHub’s profile is the source of truth for contributions.</sub>
-
 ## 📫 Connect
 
 - **Email:** [shirlean262@gmail.com](mailto:shirlean262@gmail.com)
